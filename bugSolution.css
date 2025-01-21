@@ -1,0 +1,9 @@
+```javascript
+/* Solution using more specific classes instead of `@apply` */
+
+.my-class { \color: blue; }
+
+/* ... other CSS ... */
+
+.another-class { \color: red; }
+```
