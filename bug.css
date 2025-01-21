@@ -1,0 +1,9 @@
+```javascript
+// Example showing the issue with Tailwind's `@apply` directive
+
+.my-class { \@apply text-blue-500; }
+
+/* ... other CSS ... */
+
+.another-class { \@apply text-red-500; }
+```
